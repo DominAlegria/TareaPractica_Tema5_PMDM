@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FilmingApp</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FilminApp</string>
+    <string name="nav_header_subtitle">Peliculas y Series</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Atras</string>
+
+    <string name="menu_home">AppFilming</string>
+    <string name="menu_peliculas">Peliculas</string>
+    <string name="menu_series">Series</string>
+    <string name="text_home">Peliculas y Series</string>
+
+
+    <string name="menu_pelicula">Películas</string>
+    <string name="menu_serie">Series</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txtTitulo">título</string>
+
+    <string name="director">Director</string>
+    <string name="reparto">Reparto</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="temporadas">Temporadas</string>
+
+    <string name="peli_adu"> En un intento desesperado por alcanzar Europa y agazapados ante una pista de aterrizaje en Camerún, un niño de seis años y su hermana mayor esperan para colarse en las bodegas de un avión</string>
+
+</resources>

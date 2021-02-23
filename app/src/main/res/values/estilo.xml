@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="txtPrimario">
+        <item name="android:textColor">@color/red</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="txtSecundario">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">25dp</item>
+    </style>
+    <style name="boton">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">20dp</item>
+    </style>
+    <style name="txtDescripcion">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+    <style name="clasificacion"
+        parent="android:style/Widget.Material.RatingBar.Indicator">
+    </style>
+</resources>
